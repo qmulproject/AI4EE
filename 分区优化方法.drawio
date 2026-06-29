@@ -145,7 +145,7 @@
         <mxCell id="Rnd2EKu7hbV3BZERFTsq-53" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rnd2EKu7hbV3BZERFTsq-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Rnd2EKu7hbV3BZERFTsq-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rnd2EKu7hbV3BZERFTsq-29" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Helvetica;" value="MLP 预测各分区耗时&#xa;T̂i = fθ Ni, Hi, Fi" vertex="1">
+        <mxCell id="Rnd2EKu7hbV3BZERFTsq-29" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Helvetica;" value="MLP 预测各分区耗时&#xa;T̂i = fθ（Ni, Hi, Fi） " vertex="1">
           <mxGeometry height="40" width="187" x="1123" y="1960" as="geometry" />
         </mxCell>
         <mxCell id="Rnd2EKu7hbV3BZERFTsq-60" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Rnd2EKu7hbV3BZERFTsq-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Rnd2EKu7hbV3BZERFTsq-31">
