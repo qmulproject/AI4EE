@@ -4,6 +4,9 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="Rnd2EKu7hbV3BZERFTsq-199" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="340" width="220" x="320" y="950" as="geometry" />
+        </mxCell>
         <mxCell id="Rnd2EKu7hbV3BZERFTsq-198" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="340" width="260" x="30" y="950" as="geometry" />
         </mxCell>
@@ -275,9 +278,6 @@
         </mxCell>
         <mxCell id="Rnd2EKu7hbV3BZERFTsq-176" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Helvetica;align=center;" value="直流子网 2&#xa;储能 + 光伏&#xa;+ 纯电阻负载链" vertex="1">
           <mxGeometry height="70" width="156" x="351" y="1200" as="geometry" />
-        </mxCell>
-        <mxCell id="Rnd2EKu7hbV3BZERFTsq-199" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="340" width="260" x="320" y="950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
