@@ -780,7 +780,7 @@
         </UserObject>
         <UserObject label="DC Bus 1" mermaidId="n:DCL1" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ADD8E6;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="DC Bus 1" id="kotHVx18nwVMlxBp58nF-47">
           <mxCell parent="kotHVx18nwVMlxBp58nF-44" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ADD8E6;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=28;" vertex="1">
-            <mxGeometry height="54" width="111.61939615736505" x="540" y="63" as="geometry" />
+            <mxGeometry height="85" width="148.22" x="534" y="47.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DC Microgrid 1&lt;br&gt;━━━━━━━&lt;div&gt;• Storage• PV&lt;br&gt;• Large PV Array&lt;/div&gt;" mermaidId="n:DCN1" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#FFB6C1;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="DC Microgrid 1&#xa;━━━━━━━━━━&#xa;• Storage&#xa;• PV&#xa;• Large PV Array" id="kotHVx18nwVMlxBp58nF-48">
@@ -820,7 +820,7 @@
         </UserObject>
         <UserObject label="DC Bus 2" mermaidId="n:DCL2" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ADD8E6;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="DC Bus 2" id="kotHVx18nwVMlxBp58nF-55">
           <mxCell parent="kotHVx18nwVMlxBp58nF-52" style="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#ADD8E6;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=28;" vertex="1">
-            <mxGeometry height="54" width="111.61939615736505" x="541.6285452881976" y="84" as="geometry" />
+            <mxGeometry height="85" width="148.22" x="530" y="68.5" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="DC Microgrid 2&lt;br&gt;━━━━━━━&lt;br&gt;• Storage• PV&lt;div&gt;• Pure DC Loads&lt;/div&gt;" mermaidId="n:DCN2" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=2;fillColor=#FFFACD;strokeColor=#333;fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="DC Microgrid 2&#xa;━━━━━━━━━━&#xa;• Storage&#xa;• PV&#xa;• Pure DC Loads" id="kotHVx18nwVMlxBp58nF-56">
